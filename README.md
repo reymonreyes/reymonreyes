@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning blazor.
 - 💞️ I’m looking to collaborate on any project.
 - I'm looking for part-time development work.
-- 📫 You can reach me via my email elmoe01@gmail.com
+- 📫 You can reach me via my email elmoe01(at)gmail.com
 
 <!---
 reymonreyes/reymonreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
